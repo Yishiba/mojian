@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="eng">
+        <item>10g</item>
+        <item>50g </item>
+        <item>100g</item>
+        <item>150g</item>
+        <item>200g</item>
+        <item>250g</item>
+        <item>300g</item>
+        <item>350g</item>
+        <item>400g</item>
+        <item>450g</item>
+        <item>500g</item>
+    </string-array>
+</resources>
